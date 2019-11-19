@@ -1,6 +1,6 @@
 # Adventure Club Code Style
 
-Easy code style with EditorConfig, ESLint, TSLint, StyleLint, Prettier and VisualStudio Code. It is mainly for React (JavaScript) project.
+Easy code style with EditorConfig, ESLint, StyleLint, Prettier and VisualStudio Code. It is mainly for React (JavaScript) project.
 
 ## How to use
 
