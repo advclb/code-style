@@ -1,0 +1,44 @@
+{
+  "name": "@advclb/code-style",
+  "version": "1.0.0",
+  "description": "Adventure Club Code Style with EditorConfig, ESLint, StyleLint, Prettier and VisualStudio Code",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint src/**/*.js src/**/*.jsx",
+    "stylelint": "stylelint src/**/*.css src/**/*.scss",
+    "prettier": "prettier --write src/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advclb/code-style.git"
+  },
+  "author": "Guo Yunhe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/advclb/code-style/issues"
+  },
+  "homepage": "https://github.com/advclb/code-style#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^1.19.1",
+    "prettier-eslint": "^9.0.1",
+    "prettier-stylelint": "^0.4.2",
+    "stylelint": "^12.0.0",
+    "stylelint-config-prettier": "^6.0.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-prettier": "^1.1.1",
+    "stylelint-scss": "^3.12.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0"
+  }
+}
