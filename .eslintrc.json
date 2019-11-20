@@ -3,7 +3,7 @@
     "browser": true,
     "es6": true
   },
-  "extends": ["airbnb", "airbnb/hooks", "plugin:prettier/recommended"],
+  "extends": ["@advclb", "plugin:prettier/recommended"],
   "globals": {
     "Atomics": "readonly",
     "SharedArrayBuffer": "readonly"
