@@ -45,6 +45,6 @@ section when releasing.
 
 ## [0.0.1] - 2019-10-20
 
-[unreleased]: https://github.com/advclb/code-style/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/advclb/code-style/compare/v0.3.0...v1.0.0
-[0.0.1]: https://github.com/advclb/code-style/releases/tag/v0.0.1
+[unreleased]: https://github.com/advclb/foobar/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/advclb/foobar/compare/v0.3.0...v1.0.0
+[0.0.1]: https://github.com/advclb/foobar/releases/tag/v0.0.1

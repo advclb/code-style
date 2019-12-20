@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/advclb/code-style.git"
+    "url": "git+https://github.com/advclb/foobar.git"
   },
   "author": "Guo Yunhe",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/advclb/code-style/issues"
+    "url": "https://github.com/advclb/foobar/issues"
   },
-  "homepage": "https://github.com/advclb/code-style#readme",
+  "homepage": "https://github.com/advclb/foobar#readme",
   "devDependencies": {
     "@advclb/eslint-config": "^18.0.0",
     "@babel/core": "^7.7.7",
