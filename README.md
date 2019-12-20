@@ -1,14 +1,11 @@
-# Adventure Club Code Style
+# Foobar
 
-Easy code style with EditorConfig, ESLint, StyleLint, Prettier and VisualStudio Code. It is mainly for React (JavaScript) project.
+## Installation
 
-## How to use
+## API Reference
 
-Copy the following files into your project:
+## Examples
 
-- .vscode/\*.json
-- .editorconfig
-- .eslintrc.json
-- .gitignore
-- .stylelintrc.json
-- package.json (just need `devDependencies` and `scripts` section)
+## Copyright
+
+## License
