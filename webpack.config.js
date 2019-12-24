@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  entry: "./src/index.js",
+  entry: "./src/index.jsx",
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "foobar.js",
@@ -20,9 +20,9 @@ module.exports = {
       },
       {
         test: /\.jsx?$/,
+        exclude: /node_modules/,
         use: {
           loader: "babel-loader",
-          exclude: /node_modules/,
           options: {
             presets: ["@babel/preset-env"]
           }
