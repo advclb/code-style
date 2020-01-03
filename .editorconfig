@@ -7,6 +7,6 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 
 # Prettier and ESLint configuration prefers 2 spaces
-[*.{css,js,json,jsx,md,sass,scss,ts,tsx,yml,yaml}]
+[*.{css,htm,html,js,json,jsx,md,sass,scss,ts,tsx,yml,yaml}]
 indent_style = space
 indent_size = 2
