@@ -43,7 +43,9 @@ module.exports = {
   plugins: [
     new webpack.ProgressPlugin(),
     new CleanWebpackPlugin(),
-    new HtmlWebpackPlugin(),
+    new HtmlWebpackPlugin({
+      template: path.resolve(__dirname, "src/index.html")
+    }),
     new webpack.HotModuleReplacementPlugin()
   ]
 };
